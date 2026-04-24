@@ -97,8 +97,6 @@ Disk Usage    : 15G / 50G (30%)
 
 This is **Project 1** of my Platform Engineer roadmap.
 
-**Next up:** Python automation scripts → Docker → CI/CD → AWS → Kubernetes → Terraform
-
 ---
 
 ## 🔗 Connect
