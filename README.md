@@ -95,7 +95,7 @@ Disk Usage    : 15G / 50G (30%)
 
 ## 🗺️ Part of My Learning Roadmap
 
-This is **Project 1** of my Platform Engineer roadmap.
+This is **Project** of my Platform Engineer roadmap.
 
 ---
 
